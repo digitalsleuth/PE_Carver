@@ -22,7 +22,7 @@ maintainers = [
 description = "Basic PE file carver for Python 3"
 readme = "README.md"
 license = {file = "LICENSE"}
-keywords = ["digital forensics", "dfir", "pe-carver", "pe_carver"]
+keywords = ["digital forensics", "dfir", "pe-carver", "pe_carve"]
 classifiers = [
   "Development Status :: 5 - Production/Stable",
   "Programming Language :: Python :: 3",
@@ -31,7 +31,7 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/digitalsleuth/pe_carver"
+Homepage = "https://github.com/digitalsleuth/pe-carver"
 
 [project.scripts]
 pe-carver = "pe_carve.pe_carve:main"

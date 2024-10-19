@@ -14,7 +14,8 @@
 #   Code I threw together because Foremost/Scalpel gave me so many false positives
 # Version 1.1 - 27 Jun 16
 #   OMG, 3.5 years later. Now it's a "legit" application that runs somewhat better
-
+# Version 2.0 - 18 Oct 2024
+#   Updated for Python 3, added the ability to choose file size limits, verbosity
 
 import argparse
 import bitstring  # Used to parse data. Download from: https://github.com/scott-griffiths/bitstring
