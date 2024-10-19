@@ -14,7 +14,8 @@ dependencies = [
 ]
 requires-python = ">=3.6"
 authors = [
-  {name = "Corey Forman (digitalsleuth)", email = "github@digitalsleuth.ca"}
+  {name = "Corey Forman (digitalsleuth)", email = "github@digitalsleuth.ca"},
+  {name = "Brian Baskin (@bbaskin)"}
 ]
 maintainers = [
   {name = "Corey Forman (digitalsleuth)", email = "github@digitalsleuth.ca"}
